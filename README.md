@@ -4,14 +4,25 @@ Welcome to the Cricket Legends Hub, a website dedicated to showcasing the profil
 
 ## Table of Contents
 
--[Project Description](#project-description)
--[Features](#features)
--[Technologies Used](#technologies-used)
--[Installation](#installation)
--[Usage](#usage)
--[Contributing](#contributing)
--[Contact](#contact)
--[Website](#website)
+- [Project-Description](#project-description)
+- [Features](#features)
+- [Technologies-Used](#technologies-used)
+- [Acknowledgments](#acknowledgments)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [Website](#website)
+
+
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [Website](#website)
 
 
 ## Project Description
