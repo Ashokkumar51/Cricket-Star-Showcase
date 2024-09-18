@@ -78,4 +78,4 @@ with the actual values for your GitHub repository before uploading it.
 ## Website
 
 ````bash
-    https://cricketlegendshub.netlify.app/
+    https://cricketlegendshub.netlify.app
